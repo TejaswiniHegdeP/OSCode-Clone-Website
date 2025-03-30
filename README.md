@@ -7,15 +7,23 @@ OSCode NMIT is an open-source club at NMIT that fosters learning, collaboration,
 ## Features
 
 Homepage: Displays the club's name and logo.
+
 About Us: Describes the club's mission and activities.
+
 Team: Highlights the core team members.
+
 Gallery: Showcases images from club inauguration
+
 Blogs: Features blog posts.
+
 Contact Us: Allows users to get in touch via email or social media.
 
 ## Technologies Used
 
 HTML for structuring the webpage.
+
 CSS for styling and layout.
+
 JavaScript for interactive elements like the image slideshow.
+
 Bootstrap Icons for social media icons.
